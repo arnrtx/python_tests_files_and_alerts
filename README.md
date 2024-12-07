@@ -1,3 +1,12 @@
 Hi!
 These are my tests on Selenium & Python for some pages of https://the-internet.herokuapp.com/ and https://demoqa.com/.
-Here I test different alerts, downloading and uploading files, buttons, and tooltips.
+Here I tested:
+- alerts;
+- downloading and uploading files;
+- buttons;
+- tooltips;
+- drag & drop;
+- registration form;
+- select menu;
+- frames;
+- new tabs and windows opening.
